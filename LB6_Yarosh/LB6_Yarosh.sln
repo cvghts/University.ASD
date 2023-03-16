@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LB6_Yarosh", "LB6_Yarosh\LB6_Yarosh.vcxproj", "{A15992B0-7C48-4E26-A646-9F3ED7715ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Debug|x64.ActiveCfg = Debug|x64
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Debug|x64.Build.0 = Debug|x64
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Debug|x86.Build.0 = Debug|Win32
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Release|x64.ActiveCfg = Release|x64
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Release|x64.Build.0 = Release|x64
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Release|x86.ActiveCfg = Release|Win32
+		{A15992B0-7C48-4E26-A646-9F3ED7715ADF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6836D666-0361-4DD7-A858-0C06980100A7}
+	EndGlobalSection
+EndGlobal

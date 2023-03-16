@@ -1,0 +1,18 @@
+﻿  LB10_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(383,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(379): message : во время компиляции функции-члена класс шаблон "Tree<int>::Node *Tree<int>::BalanceDSW(Tree<int>::Node *)"
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(118): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<int>::Node *Tree<int>::BalanceDSW(Tree<int>::Node *)"
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(408): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>"
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(384,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(340,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(338): message : во время компиляции функции-члена класс шаблон "Tree<int>::Node *Tree<int>::Convert(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\LB10_Yarosh\LB10_Yarosh.cpp(113): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<int>::Node *Tree<int>::Convert(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=int
+          ]
+  LB10_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB10_Yarosh\x64\Debug\LB10_Yarosh.exe
