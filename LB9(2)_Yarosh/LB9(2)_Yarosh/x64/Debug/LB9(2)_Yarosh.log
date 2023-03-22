@@ -1,4 +1,0 @@
-﻿  LB9(2)_Yarosh.cpp
-C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB9(2)_Yarosh\LB9(2)_Yarosh\LB9(2)_Yarosh.cpp(50,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB9(2)_Yarosh\LB9(2)_Yarosh\LB9(2)_Yarosh.cpp(87,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  LB9(2)_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\Проекти АСД-2\LB9(2)_Yarosh\x64\Debug\LB9(2)_Yarosh.exe
