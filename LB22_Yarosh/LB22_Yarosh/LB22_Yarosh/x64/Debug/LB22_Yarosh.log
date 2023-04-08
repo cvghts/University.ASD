@@ -1,0 +1,8 @@
+﻿  LB22_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh.cpp(16,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh.cpp(17,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh.cpp(40,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh.cpp(41,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh.cpp(83,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh\LB22_Yarosh.cpp(84,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LB22_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB22_Yarosh\LB22_Yarosh\x64\Debug\LB22_Yarosh.exe

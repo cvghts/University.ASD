@@ -1,0 +1,4 @@
+﻿  LB21(1)_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB21_Yarosh\LB21(1)_Yarosh\LB21(1)_Yarosh\LB21(1)_Yarosh.cpp(92,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB21_Yarosh\LB21(1)_Yarosh\LB21(1)_Yarosh\LB21(1)_Yarosh.cpp(119,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB21(1)_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB21_Yarosh\LB21(1)_Yarosh\x64\Debug\LB21(1)_Yarosh.exe

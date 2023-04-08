@@ -1,0 +1,3 @@
+﻿  LB20_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB20_Yarosh\LB20_Yarosh\LB20_Yarosh.cpp(103,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB20_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB20_Yarosh\x64\Debug\LB20_Yarosh.exe

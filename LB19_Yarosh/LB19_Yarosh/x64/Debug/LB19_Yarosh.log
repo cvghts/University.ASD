@@ -1,0 +1,8 @@
+﻿  LB19_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\LB19_Yarosh\LB19_Yarosh.cpp(82,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\LB19_Yarosh\LB19_Yarosh.cpp(76,9): warning C4101: left: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\LB19_Yarosh\LB19_Yarosh.cpp(76,22): warning C4101: mid: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\LB19_Yarosh\LB19_Yarosh.cpp(75,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\LB19_Yarosh\LB19_Yarosh.cpp(76,15): warning C4101: right: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\LB19_Yarosh\LB19_Yarosh.cpp(122,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB19_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB19_Yarosh\x64\Debug\LB19_Yarosh.exe

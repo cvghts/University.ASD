@@ -1,0 +1,5 @@
+﻿  LB18(1)_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB18_Yarosh\LB18(1)_Yarosh\LB18(1)_Yarosh\LB18(1)_Yarosh.cpp(87,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB18_Yarosh\LB18(1)_Yarosh\LB18(1)_Yarosh\LB18(1)_Yarosh.cpp(116,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB18_Yarosh\LB18(1)_Yarosh\LB18(1)_Yarosh\LB18(1)_Yarosh.cpp(166,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB18(1)_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB18_Yarosh\LB18(1)_Yarosh\x64\Debug\LB18(1)_Yarosh.exe

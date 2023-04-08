@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LB13_1_Yarosh.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LB13_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB13_Yarosh\LB13_Yarosh\LB13_Yarosh.cpp(11,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB13_Yarosh\LB13_Yarosh\LB13_Yarosh.cpp(27,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LB13_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB13_Yarosh\x64\Debug\LB13_Yarosh.exe
