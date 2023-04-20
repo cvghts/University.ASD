@@ -1,0 +1,6 @@
+﻿  LB24(1)_Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB24_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh.cpp(57,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB24_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh.cpp(60,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB24_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh.cpp(68,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB24_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh\LB24(1)_Yarosh.cpp(71,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  LB24(1)_Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\LB24_Yarosh\LB24(1)_Yarosh\x64\Debug\LB24(1)_Yarosh.exe
