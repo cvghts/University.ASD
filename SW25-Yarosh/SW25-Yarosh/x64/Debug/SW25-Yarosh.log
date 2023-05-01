@@ -1,0 +1,4 @@
+﻿  SW25-Yarosh.cpp
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\SW25-Yarosh\SW25-Yarosh\SW25-Yarosh.cpp(38,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Наташа\Desktop\Учеба\АСД-2к\SW25-Yarosh\SW25-Yarosh\SW25-Yarosh.cpp(46,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SW25-Yarosh.vcxproj -> C:\Users\Наташа\Desktop\Учеба\АСД-2к\SW25-Yarosh\x64\Debug\SW25-Yarosh.exe
